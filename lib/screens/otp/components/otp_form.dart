@@ -3,6 +3,7 @@ import 'package:shop_app/components/default_button.dart';
 import 'package:shop_app/size_config.dart';
 
 import '../../../constants.dart';
+import '../../home/home_screen.dart';
 
 class OtpForm extends StatefulWidget {
   const OtpForm({
@@ -109,7 +110,9 @@ class _OtpFormState extends State<OtpForm> {
           SizedBox(height: SizeConfig.screenHeight * 0.15),
           DefaultButton(
             text: "Continue",
-            press: () {},
+            press: () {
+              Navigator.pushNamed(context, HomeScreen.routeName);
+            },
           )
         ],
       ),

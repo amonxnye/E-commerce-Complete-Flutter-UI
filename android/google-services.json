@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "6393742434",
+    "project_id": "bluepostinc",
+    "storage_bucket": "bluepostinc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6393742434:android:49dbc9c5551f0c5b93fd3b",
+        "android_client_info": {
+          "package_name": "com.bluepost.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6393742434-gn0bf2sq01bst53to2q0ivaeg696qbri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluepost.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yEuiq0xoGrcL-CnDyjf7Mw2-YCDemAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6393742434-9droavch49d2iil47feocom1f5upuaju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluepost.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6393742434:android:e7680c1e1adbe55f93fd3b",
+        "android_client_info": {
+          "package_name": "com.bluepost.bluepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6393742434-60lm09cr8259hgh2hd4hd9qkd9imu069.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bluepost.bluepost",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yEuiq0xoGrcL-CnDyjf7Mw2-YCDemAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6393742434-9droavch49d2iil47feocom1f5upuaju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluepost.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6393742434:android:07b930acdf4c5dad93fd3b",
+        "android_client_info": {
+          "package_name": "com.bluepost.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yEuiq0xoGrcL-CnDyjf7Mw2-YCDemAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6393742434-9droavch49d2iil47feocom1f5upuaju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluepost.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6393742434:android:507cc12d5deed9a193fd3b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.bluepostx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6393742434-m7cv1hvmamubk4f7hmb0f67n2vme1q4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.bluepostx",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2yEuiq0xoGrcL-CnDyjf7Mw2-YCDemAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6393742434-mkf1infvj7v795mqf3bv0uignhq9qm53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6393742434-9droavch49d2iil47feocom1f5upuaju.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bluepost.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

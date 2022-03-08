@@ -8,8 +8,13 @@ import 'package:shop_app/screens/login_success/login_success_screen.dart';
 import '../../../components/default_button.dart';
 import '../../../constants.dart';
 import '../../../size_config.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 
 class SignForm extends StatefulWidget {
+
+  //initialize firebase auth
+  // final FirebaseAuth auth = FirebaseAuth.instance;
+
   @override
   _SignFormState createState() => _SignFormState();
 }
@@ -37,6 +42,14 @@ class _SignFormState extends State<SignForm> {
 
   @override
   Widget build(BuildContext context) {
+    // FirebaseAuth.instance.authStateChanges().listen((User? user) {
+    //   if (user == null) {
+    //     print('User is currently signed out!');
+    //   } else {
+    //     print('User is signed in!');
+    //   }
+    // });
+
     return Form(
       key: _formKey,
       child: Column(
